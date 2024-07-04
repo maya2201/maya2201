@@ -9,15 +9,22 @@ Este repositório foi criado para documentar minha jornada de aprendizado, onde 
 
 ### 📚Habilidades em Desenvolvimento
 Automação de Testes 
+
 Testes de Software
+
 Conhecimento em Ferramentas de QA
+
 Planejamento de Testes
+
 Reportar Bugs
+
 Pensamento Critico e Analitico
 
 ### ❗Como Você Pode Ajudar
 Aceito feedback construtivo nos meus projetos.
+
 Estou aberto a colaborações em projetos de QA.
+
 Sugestões de recursos ou ferramentas são sempre bem-vindas!
 
 ### 💻Contato
