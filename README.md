@@ -1,4 +1,4 @@
-## Bem-vindo ao meu perfil do GitHub! 💙
+## Bem-vindo(a) ao meu perfil do GitHub! 💙
 ## Meu nome é Mayara, mas podem me chamar de May
 
 ### Sobre Mim
